@@ -42,4 +42,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 # Stock fingerprint for GmsCompat
-PRODUCT_STOCK_FINGERPINT := "OnePlus/OnePlus7T/OnePlus7T:11/RKQ1.201022.002/2108181508:user/release-keys"
+PRODUCT_STOCK_FINGERPRINT := "OnePlus/OnePlus7T/OnePlus7T:11/RKQ1.201022.002/2108181508:user/release-keys"
